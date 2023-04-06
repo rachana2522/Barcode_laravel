@@ -58,5 +58,3 @@ Laravel Framework 8.83.23
 
     ![PHP laravel barcode Qr code reader](https://www.dynamsoft.com/codepool/img/2022/08/php-laravel-barcode-qr-reader.gif)
 
-## Blog
-[How to Read Barcode QR Code on the Server Side Using PHP Laravel](https://www.dynamsoft.com/codepool/php-laravel-barcode-qr-code-reader.html)
